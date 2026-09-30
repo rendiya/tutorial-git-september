@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "buku-tamu",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "bukutamu-db",
+      "database_id": "GANTI-DENGAN-DATABASE-ID-DARI-DASHBOARD"
+    }
+  ]
+}

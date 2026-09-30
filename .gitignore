@@ -1,0 +1,13 @@
+# dependensi
+node_modules/
+
+# rahasia lokal
+.dev.vars
+.env
+
+# database lokal wrangler
+.wrangler/
+
+# berkas sistem
+.DS_Store
+Thumbs.db
