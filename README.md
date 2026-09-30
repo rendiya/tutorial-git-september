@@ -59,3 +59,6 @@ Setelah itu, setiap push ke `main` men-deploy versi baru. Branch lain mendapat p
 
 - Preview memakai database D1 yang sama dengan production.
 - Rollback: Workers & Pages › buku-tamu › Deployments › menu di versi sebelumnya › Rollback, atau `npm run rollback`. Isi database tidak ikut kembali.
+
+
+saya ingin menambahkan sesuatu
